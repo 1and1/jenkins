@@ -32,7 +32,6 @@ THE SOFTWARE.
   </parent>
 
   <artifactId>jenkins-deb</artifactId>
-  <packaging>deb</packaging>
 
   <name>Jenkins deb</name>
   <description>Creates a deb file. Also includes additional static web resources, such as images, CSS, JavaScript, and some HTML files.</description>
