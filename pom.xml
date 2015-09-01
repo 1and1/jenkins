@@ -50,7 +50,6 @@ THE SOFTWARE.
   <modules>
     <module>core</module>
     <module>war</module>
-	<module>deb</module>
     <module>test</module>
     <module>cli</module>
     <module>plugins</module>
